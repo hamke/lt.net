@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Disallow: /assets/
+Disallow: /assets-frontpage/
+Disallow: /lounge/assets/
+Disallow: /salon/assets/
+Disallow: /school/assets/
+Disallow: /party/assets/
+Disallow: /intro/assets/
